@@ -1,0 +1,27 @@
+.accordion_title {
+  font-size: 1.125rem;
+  line-height: 1.625rem;
+  font-weight: bold;
+}
+
+.accordion_rotate {
+  display: flex;
+  justify-content: space-between;
+  cursor: pointer;
+}
+
+.rotate_arrow {
+  transform: rotate(90deg);
+  transition: all .2s;
+}
+
+.border_bott {
+  border-bottom: 1px #ccc solid;
+  padding: 10px 0px;
+}
+
+.border_top {
+  border-top: 1px #ccc solid;
+  border-bottom: 1px #ccc solid;
+  padding: 10px 0px;
+}

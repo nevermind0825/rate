@@ -1,0 +1,34 @@
+.span_text {
+  display: block;
+  font-weight: 900;
+  font-size: 2.25rem;
+}
+
+
+.hidescroll {
+  -ms-overflow-style: none;  /* Internet Explorer 10+ */
+  scrollbar-width: none;  /* Firefox */
+}
+.hidescroll::-webkit-scrollbar { 
+  display: none;  /* Safari and Chrome */
+}
+
+.chart_table_head {
+  display: grid;
+  padding: 0px 15px;
+  border-bottom: 1px #000 solid;
+  grid-template-columns: 50px repeat(6, 1fr);
+  align-items: flex-end;
+}
+
+.chart_table_row {
+  display: grid;
+  grid-template-columns: 50px repeat(6, 1fr);
+  padding: 0px 15px;
+}
+
+.header_element {
+  margin-bottom: 0px;
+  color: #25282a;
+  font-size: 1rem;
+}

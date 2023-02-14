@@ -1,0 +1,35 @@
+
+.outer_float{
+    display:flex;
+    background-color: #5F5E5A;
+    width:100%;
+    min-height:4rem;
+    padding:0.5rem 1rem;
+    color:var(--color-marketing-7-lighter);
+    top:0;
+    left:0;
+    z-index: 4;
+    justify-content: center;
+    column-gap: 2rem;
+    align-items: center;
+    font-weight:bold;
+}
+
+
+
+.apply_now_btn{
+    border:var(--color-marketing-7-lighter) solid 2px;
+    border-radius: 0.3rem;
+    color:var(--color-marketing-7-lighter);
+    background-color: transparent;
+    padding:0.5rem 0.5rem;
+    display: flex;
+    align-items: center;
+    font-weight:bold;
+}
+
+@media (min-width:1024px) {
+    .outer_float{
+        position:fixed;
+    }
+}

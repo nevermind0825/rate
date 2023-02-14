@@ -1,0 +1,82 @@
+.powerbid_banner{
+    display: flex;
+    flex-direction: column;
+}
+.powerbid_banner_img_wrapper{
+    order: 1;
+}
+.powerbid_banner_img{
+    /* min-height: 200px; */
+    object-fit:  cover;
+    object-position: 20% 10%;
+}
+.powerbid_banner_btn_wrap{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+.powerbid_banner_btn{
+    border-radius: var(--border-radius-medium);
+    min-width: 80%;
+}
+.afford_text{
+    background-color: #eff4f5;
+    font-size: 16px;
+}
+.afford_text a{
+    color: #136a87;
+}
+
+/* cachets styles start */
+.cachets_st{
+
+}
+.cachets_st .cachet_st{
+    padding: 2rem 0;
+    border-bottom: 1px solid rgb(212, 212, 212);
+    
+}
+.cachets_st .cachet_st:last-child{
+    border-bottom: none;
+}
+.cachet_title{
+    font-size: 40px;
+    margin: 20px auto;
+    text-align: center;
+}
+/* cachets styles end */
+
+.get_btn{
+    margin: 2rem auto;
+    width: 80%;
+    text-align: center;
+}
+
+@media screen and (min-width:786px) {
+    .powerbid_banner_btn{
+        border-radius: var(--border-radius-medium);
+        min-width: 50%;
+    }
+    .get_btn{
+        width: 400px;
+    }
+}
+@media screen and (min-width:992px) {
+    .powerbid_banner{
+        display: grid;
+    }
+    .cachets_st{
+        display: grid;
+        grid-template-columns: repeat(3,1fr);
+    }
+    .cachets_st .cachet_st{
+        padding: 2rem 0;
+        border-bottom: none;
+        border-right: 1px solid rgb(212, 212, 212);
+        padding: 0 1rem;
+    }
+    .cachets_st .cachet_st:last-child{
+        border-right: none;
+    }
+    
+}

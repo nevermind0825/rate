@@ -1,0 +1,15 @@
+.bullet_point{
+    position: relative;
+}
+.bullet_point::before{
+    --topPosition: 12px;
+    --leftPosition: -25px;
+    position: absolute;
+    content: '';
+    background: red;
+    width: 10px;
+    height: 10px;
+    top: var(--topPosition);
+    left: var(--leftPosition);
+    border-radius: 50%;
+}

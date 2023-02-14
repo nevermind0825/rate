@@ -1,0 +1,15 @@
+
+.subCont{
+    display: flex;
+    flex-direction: column;
+    align-items:center ;    
+}
+.approve{
+    font-size:2rem;
+    font-weight:bold;
+}
+.preapprove{
+    padding:2rem 10rem;
+    font-size:1.2rem;
+    font-weight: bold;
+}

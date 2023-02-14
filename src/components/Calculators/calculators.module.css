@@ -1,0 +1,30 @@
+.calc_nav{
+    border-bottom: 1px solid;
+    font-size: 14px;
+    position: relative;
+    min-height: 23px;
+    min-width: 414px;
+}
+.calc_nav_btn{
+    border: 1px solid;
+    margin: 0 1px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    padding: 0px 14px;
+    text-transform: capitalize;
+}
+
+/* for moizila */
+.calc_input{
+    -moz-appearance: textfield;
+}
+
+/* for chorome safari, edge and opera */
+.calc_input::-webkit-outer-spin-button,
+.calc_input::-webkit-inner-spin-button{
+    -webkit-appearance: none;
+    margin: 0;
+}
+
+
+

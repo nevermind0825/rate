@@ -1,0 +1,52 @@
+/* Compare current mortgage rates styles start */
+
+.purchase_refine_btns {
+  border-bottom: 2px solid lightgray;
+}
+.purchase_refine_btn {
+  position: relative;
+  cursor: pointer;
+}
+.purchase_refine_btn::before {
+  content: "";
+  position: absolute;
+  bottom: -2px;
+  left: -4px;
+  width: 75px;
+  height: 5px;
+  border-bottom: 3px solid rgb(155, 63, 63);
+}
+.personalRate_btn {
+  font-weight: 400;
+  text-decoration-thickness: 1px;
+}
+.purchase_field {
+  background-color: var(--light-grey);
+}
+.purchase_label {
+  font-size: 12px;
+}
+.purchase_input {
+  width: calc(100% - 14px);
+  outline: none;
+  background-color: transparent;
+}
+.purchase_select {
+}
+/* Compare current mortgage rates styles end */
+
+/* table of content styles start  */
+.link_text_style {
+  color: gray;
+  text-decoration-thickness: 1px;
+}
+/* table of content styles end */
+
+/* different type style  */
+.mortgageTyles{
+    columns: 2;
+    -webkit-columns: 2;
+    -moz-columns: 2;
+    
+}
+

@@ -1,0 +1,32 @@
+.others {
+    width: 100%;
+    overflow: hidden;
+    text-align: center;
+}
+
+.contact {
+    width: 100%;
+    column-gap: 2rem;
+    background-color: var(--color-prime);
+    padding: 1rem;
+    color: #fff;
+    text-align: center;
+    overflow: hidden
+}
+
+.icons {
+    column-gap: 2rem
+}
+
+@media (min-width:700px) {
+    .others {
+        display: flex;
+        justify-content: space-around;
+        padding: 3rem;
+    }
+    .icons{
+        display: flex;
+        justify-content: center;
+    }
+}
+

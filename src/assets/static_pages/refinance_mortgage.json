@@ -1,0 +1,588 @@
+{
+    "banner":{
+        "title_hint":"Refinance Your Mortgage",
+        "title":"Let’s make your dream home more affordable.",
+        "banner_img":"refinance-mortgage-banner.jpg",
+        "btn_url":"https://apply.guaranteedrate.com/?icid=refinancepagehero&loan-purpose=refinance&preferred-terms=smallest-payment&AdTrk=%7Cgnr%7Cguaranteedrate%7C%7C%7C%7C%7C%7C%7C%7Cdirect%7C%7C%7C%7C%7C"
+    },
+    "tools_options":{
+        "title":"Mortgage refinance options and pricing tools",
+        "options":[
+            {
+                "image_url":"DesktopIcon_newv2",
+                "url":"/home-loans",
+                "name":"Loan options"
+            },
+            {
+                "image_url":"CalculatorIconBold",
+                "url":"/mortgage-calculators",
+                "name":"Mortgage calculators"
+            },
+            {
+                "image_url":"RatesIconBold",
+                "url":"/mortgage-rates",
+                "name":"Today's rates"
+            }
+        ],
+        "sub_title":"Should you refinance your mortgage?",
+        "text":"Knowing when to refinance your mortgage isn't always easy. We offer top-of-the-line technology and expert customer service to guide you through the refinance process with ease. Contact Guaranteed Rate’s elite team of refinance experts to help you make the best decision.",
+        "url":"",
+        "option_List":[
+            {
+                "name":"Lower your payment",
+                "text":"You could reduce monthly bills and save."
+            },
+            {
+                "name":"Take cash out",
+                "text":"Renovate your current home or consolidate debt."
+            },
+            {
+                "name":"Change a variable rate to fixed",
+                "text":"Lock in favorable rates."
+            },
+            {
+                "name":"Switch to a 15 year mortgage",
+                "text":"Shorten your loan term, pay off your mortgage sooner."
+            }
+        ]
+    },
+    "knowRefinance":{
+        "title":"Everything you need to know about refinancing",
+        "paragraphs":[
+            {
+                "text":"There comes a time in the life of most homeowners when a drop in prevailing interest rates coupled with the prospect of reducing monthly mortgage payments makes too much sense not to explore; hence, the lure and the logic of a home refinance.",
+                "urls":[
+                    {
+                        "name":"",
+                        "url":""
+                    }
+                ]
+            },
+            {
+                "text":"As a homeowner intent on optimizing value, locking in a new mortgage rate through a refinance can be a great way to generate tangible savings and create financial flexibility. Given the built-in complexities, make sure you take time to conduct research, run the numbers and talk to a trusted and experienced loan officer who can guide you through the refinance process.",
+                "urls":[
+                    {
+                        "name":"trusted and experienced loan officer",
+                        "url":"https://apply.guaranteedrate.com/"
+                    }
+                ]
+            }
+        ]
+    },
+    "faqList":{
+        "what_is":{
+            "id":"df",
+            "title":"What is a mortgage refinance?",
+            "paragraphs":[
+                {
+                    "text":"When it comes to home financing, the initial purchase agreement on your property—the mortgage—is not fixed and immovable. It can be recast and it can be replaced.",
+                    "urls":[
+                        {
+                            "name":"recast",
+                            "url":"https://www.rate.com/resources/refinance-or-recast"
+                        }
+                    ]
+                },
+                {
+                    "text":"A refinance (or “refi” as it is commonly referred to) is simply a way to replace your original mortgage agreement with a new contract that contains updated terms and rates that are more attractive. You may be looking to shorten your loan term, change from a variable rate to a fixed rate and even take out cash to use towards renovations or consolidate debt. There are many reasons individuals may desire a refi, but the catalyst for acting is more often than not a low interest rate environment that holds the potential to reduce your payments and save you money.",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "text":"Of course, there are always some caveats. Even if the savings appear worthwhile at current interest rates, you’ll want to take into consideration all the paperwork, time commitment and associated costs involved in a refi. This is where the rubber meets the road when it comes to determining value. Closing costs, for example, are just some of the charges you’ll be required to pay. To make a prudent decision, every detail needs to be factored in.",
+                    "urls":[
+                        {
+                            "name":"Closing costs",
+                            "url":"https://www.rate.com/mortgage-calculators/closing-cost-calculator"
+                        }
+                    ]
+                },
+                {
+                    "text":"It’s worth mentioning that to obtain a mortgage refinance, you’ll have to undergo a whole new loan application process—either with your existing lender or a new bank or mortgage company. The lender will evaluate your current financial situation (including credit score) to ensure you are a low-risk candidate eligible to refinance at the lowest market rate.",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                }
+            ]
+        },
+        "How_refinance":{
+            "id":"djkf",
+            "title":"How to refinance your mortgage",
+            "paragraphs":[
+                {
+                    "text":"As you begin to contemplate a refi, You’ll want to keep your eye on the average mortgage rates for 15- and 30-year loans. This will give you market insight into what home refinance rates may be available, given your lender, desired terms and financial history. Historically, many mortgage experts have said that a good time to refinance is when market rates dip 1% below the interest rate you currently pay. Of course, if you currently have a 30-year loan, 15-year mortgage refinance rates on their own might make a refi appealing.",
+                    "urls":[
+                        {
+                            "name":"average mortgage rates",
+                            "url":"https://www.rate.com/mortgage-rates"
+                        },
+                        {
+                            "name":" market rates dip 1% below",
+                            "url":"https://www.investopedia.com/ask/answers/09/refinancing-mortgage.asp"
+                        }
+                    ]
+                },
+                {
+                    "text":"Once you’ve decided the time is right to lock in lower interest rates and refinance your mortgage, you need to have a discussion with your lender to begin the process in full.",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "text":"Interestingly, many homeowners opt to work with a new lender when choosing to refinance. The reason? A mix of factors, but the ability to secure the best interest rate is high on the list for many borrowers. Borrowers also prioritize a quick, seamless process and a helpful team of experts who can help guide them through their journey.",
+                    "urls":[
+                        {
+                            "name":"choosing to refinance",
+                            "url":"https://www.rate.com/resources/when-to-refinance"
+                        }
+                    ]
+                },
+                {
+                    "text":"If you’re fortunate, you’ll be working on a digital platform where many of the mortgage processes will be transparent and painless. However, even in the most seamless of circumstances, there is required documentation that you will need to provide. Typically, your lender will ask for some, if not all, of the following items:",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                }
+            ],
+            "asking_list":[
+                {
+                    "image":"Credit_report",
+                    "text":"Recent credit score and credit reports",
+                    "urls":[
+                        {
+                            "name":"credit reports",
+                            "url":"https://www.rate.com/resources/what-is-on-a-credit-report"
+                        }
+                    ]
+                },
+                {
+                    "image":"Group13",
+                    "text":"Current monthly debts and debt to income (DTI) ratio",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "image":"Group16",
+                    "text":"Statement of total assets",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "image":"Group10",
+                    "text":"Appraisal documentation on current home",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "image":"Group18",
+                    "text":"Loan-to-value (LTV) appraisal",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "image":"Group8",
+                    "text":"Proof of Insurance (homeownership, title)",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                }
+            ],
+            "conclusion": [
+                {
+                    "text":"You’ll need to set some time aside to gather this documentation, ensure its accuracy and load it into the digital platform (if applicable) or otherwise make it available to your loan officer.",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "text":"Since you already own your home, you don’t need to request a preapproval letter. However, you will need to be patient; financial documentation, digital or otherwise, takes some time to be verified and approved.",
+                    "urls":[
+                        {
+                            "name":"preapproval letter",
+                            "url":"https://www.rate.com/resources/how-to-get-preapproved-for-a-mortgage"
+                        }
+                    ]
+                }
+            ]
+        },
+        "should_refinance":{
+            "id":"daf",
+            "title":"Should I refinance my mortgage?",
+            "paragraphs":[
+                {
+                    "sub_title":"",
+                    "paras":[
+                        {
+                            "text":"When considering a refinance, you’ll want to take stock of your particular situation—not just the interest rate environment.",
+                            "urls":[
+                                {
+                                    "name":"",
+                                    "url":""
+                                }
+                            ]
+
+                        }
+                    ]
+                },
+                {
+                    "sub_title":"Refi considerations: Clearing debt, moving and break-even point",
+                    "paras":[
+                        {
+                            "text":"First, you’ll want to gather a clear picture of your financial goals as well as your expectations for how long you intend to live in your home. For example, is it financially prudent to obtain a new 30-year refinance mortgage and further extend interest payments deep into the future? What about your desire to own the property outright? 15-year mortgage refinance rates could speed up your path to paying off your loan. Have you established a time horizon for paying off the interest + principal and clearing away all mortgage debt?",
+                            "urls":[
+                                {
+                                    "name":"30-year refinance mortgage",
+                                    "url":"https://www.rate.com/mortgage-rates/assumptions/30-year_fixed_conforming"
+                                }
+                            ]
+
+                        },
+                        {
+                            "text":"Also, think about how long you intend to live in your home before selling the property. Two years? Five years? Ten years? Given the required closing costs and other associated fees that are frequently folded into your monthly mortgage payments, you may be on the hook for higher monthly payments during the first couple years of your refinance. In other words, despite the appeal of a low interest rate, if your break-even point does not occur in the period before you sell your home, you will be denied an opportunity to recoup any savings.",
+                            "urls":[
+                                {
+                                    "name":"monthly mortgage payments",
+                                    "url":"https://www.rate.com/mortgage-calculators"
+                                }
+                            ]
+
+                        },
+                        {
+                            "text":"Make sure you have access to an industry-leading tool like the Guaranteed Rate refinance calculator to help you decide if refinancing your home makes sound financial sense.",
+                            "urls":[
+                                {
+                                    "name":"Guaranteed Rate refinance calculator",
+                                    "url":"https://www.rate.com/mortgage-calculators/should-I-refinance-calculator"
+                                }
+                            ]
+
+                        }
+                    ]
+                },
+                {
+                    "sub_title":"Reasons to refinance",
+                    "paras":[
+                        {
+                            "text":"There are many reasons why refinancing your home is a great move. And most of them have to do with saving money, extracting money from your home or restructuring your loan to gain new flexibility.",
+                            "urls":[
+                                {
+                                    "name":"",
+                                    "url":""
+                                }
+                            ]
+
+                        },
+                        {
+                            "text":"The most common type of refinance is a rate-and-term refinance. This is exactly what it sounds like: a refi method in which the chief goal is either to switch to a lower interest rate, change the term of the mortgage (number of years or variable vs. fixed rate) or both. The other common refi is a cash-out refinance, whereby you extract equity from your home in the form of cash for any number of purposes.",
+                            "urls":[
+                                {
+                                    "name":"cash-out refinance",
+                                    "url":"https://www.rate.com/cash-out-refinance"
+                                }
+                            ]
+
+                        }
+                    ]
+                }
+                
+            ],
+            "refinance_reasons":{
+                "intro":"Let’s take a deeper look at some of the main reasons homeowners decide to refinance their mortgage:",
+                "list":[
+                    {
+                        "title":"Reduce monthly payments",
+                        "details":[
+                            {
+                                "text":"Refinancing your home when rates are low is the No. 1 way to reduce interest payments and create financial flexibility. The savings you receive with a refi can differ dramatically depending on a range of factors, but according to Freddie Mac the average household saved $2,800 last year by refinancing.",
+                                "urls":[
+                                    {
+                                        "name":"saved $2,800 last year",
+                                        "url":"https://www.freddiemac.com/research/insight/20210305-refinance-trends#:~:text=On%20average%2C%20borrowers%20who%20refinanced%20their%2030%2Dyear%20fixed%20rate,annually%20by%20refinancing%20in%202020."
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Reduce overall interest payments",
+                        "details":[
+                            {
+                                "text":"Are you able to tolerate higher monthly payments now that your financial situation has improved? Higher payments may sound counterintuitive, until you realize this may enable you to switch from a 30-year fixed rate to a 15-year fixed rate mortgage, thus reducing the amount of interest payments and accessing real savings. Yes, a 15-year loan agreement will mean higher monthly payments (you’re paying off the principal more quickly, after all), but you will also receive the benefits of reduced interest and a more rapid accumulation of equity.",
+                                "urls":[
+                                    {
+                                        "name":" 15-year fixed rate mortgage",
+                                        "url":"https://www.rate.com/mortgage-rates/assumptions/15-year_fixed_conforming"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Change from a variable rate to a fixed rate",
+                        "details":[
+                            {
+                                "text":"Many homebuyers agree to an adjustable rate mortgage (ARM)—rates that begin steady but then could fluctuate with the market after an initial fixed-rate period. Given the lack of control over market conditions and the risk of paying substantially higher interest rates in the future, homeowners often switch to a fully fixed rate option over the entire term of the loan. A refinance enables this. The fixed rate you receive may not be quite as attractive as the introductory rate in your original mortgage, but it insures you against wild fluctuations in interest rates that could cause financial pain.",
+                                "urls":[
+                                    {
+                                        "name":" adjustable rate mortgage",
+                                        "url":"https://www.rate.com/home-loans/adjustable-rate-mortgage-arm"
+                                    }
+                                ]
+                            }
+                        ]
+                    },
+                    {
+                        "title":"Take cash out",
+                        "details":[
+                            {
+                                "text":"A cash-out refinance allows the borrower to tap into home equity and turn it into liquidity—often for purposes of debt consolidation, home renovations, college tuition or other purchases where a lump sum is necessary. This type of refinance usually requires the borrower to have established a minimum of 20% equity in the home.",
+                                "urls":[
+                                    {
+                                        "name":"cash-out refinance",
+                                        "url":"https://www.rate.com/cash-out-refinance"
+                                    }
+                                ]
+                            },
+                            {
+                                "text":"If the amount of cash taken out is more than 80% of the home’s current value, you will likely be required to obtain private mortgage insurance (PMI), incurring additional costs. It’s a trade-off: You’re reducing equity for an opportunity to withdraw cash now to spend on other important matters.",
+                                "urls":[
+                                    {
+                                        "name":"",
+                                        "url":""
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ]
+            }
+        },
+        "home_rate":{
+            "id":"dewrf",
+            "title":"Refinance mortgage rates",
+            "paragraphs":[
+                {
+                    "text":"Refinance mortgage rates are essentially regular rates; you're simply refinancing instead of purchasing a new home. There are a number of factors that shape them, some of which you have personal control over.",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "text":"The basic mortgage refinance rate is determined by a number of market-based factors but hinges strongly on the performance of 10-year Treasury bonds and their relationship to mortgage-backed securities (MBS) rates. Many of the MBS bonds are sold by Fannie Mae and Freddie Mac, federally backed mortgage giants who buy the majority of conforming loans available in order to help spur liquidity and provide stability within the housing market.",
+                    "urls":[
+                        {
+                            "name":"Freddie Mac",
+                            "url":"https://www.rate.com/resources/what-is-freddie-mac"
+                        }
+                    ]
+                },
+                {
+                    "text":"Besides market-based conditions, there are other factors that influence refinance mortgage rates, including:",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                }
+            ],
+            "rate_factors":[
+                {
+                    "image":"Group5",
+                    "text":"A lender’s ability to quickly and securely lock-in interest rates (and extend that lock, if need be)"
+                },
+                {
+                    "image":"Group7",
+                    "text":"Credit score: A score over 760 may entitle you to the best rates"
+                },
+                {
+                    "image":"Group14",
+                    "text":"Debt-to-income ratio (DTI): Ideally no higher than 43% for most refinances"
+                },
+                {
+                    "image":"Group25Copy",
+                    "text":"Loan-to-value ratio: Lenders typically look for 80% LTV or lower"
+                },
+                {
+                    "image":"Group111",
+                    "text":"Down payment: Higher down payments help reduce mortgage rates, although in the context or a rate-and-term refi, a down payment is not typically applicable"
+                }
+            ]
+        },
+        "other-aspect":{
+            "id":"dftyt",
+            "title":"Other refinance aspects to consider",
+            "introduction":[
+                {
+                    "sub_title":"",
+                    "paragraphs":[
+                        {
+                            "text":"Besides mortgage rates, there are charges and fees that must be considered when determining the costs of a refinance.",
+                            "urls":[
+                                {
+                                    "name":"",
+                                    "url":""
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "sub_title":"Closing costs",
+                    "paragraphs":[
+                        {
+                            "text":"Closing costs are unavoidable, even for refinances. Most experts agree that borrowers should expect to pay about 2-5% of the remaining principal in closing costs.",
+                            "urls":[
+                                {
+                                    "name":" expect to pay about 2-5%",
+                                    "url":"https://www.forbes.com/advisor/mortgages/closing-costs/"
+                                }
+                            ]
+                        },
+                        {
+                            "text":"Some lenders may allow borrowers to pay these costs during closing, but it’s more typical to have these charges rolled into your monthly payments and reflected in your APR. According to recent reports, the average closing costs for a refinance is over $4,300.",
+                            "urls":[
+                                {
+                                    "name":" average closing costs for a refinanc",
+                                    "url":"https://www.valuepenguin.com/mortgages/average-cost-of-refinance"
+                                }
+                            ]
+                        },
+                        {
+                            "text":"The term “closing costs” refers to a number of fees that are part of the mortgage process. Typically, they include some or all of the following:",
+                            "urls":[
+                                {
+                                    "name":" mortgage process",
+                                    "url":"https://www.rate.com/mortgage-process"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ],
+            "cost_list":[
+                "Mortgage application fee",
+                "Appraisal fee",
+                "Loan recording fees",
+                "Attorney and closing fees",
+                "Loan origination fee",
+                "Survey fee",
+                "Discount points",
+                "Title fees"
+            ],
+            "conclusion":[
+                {
+                    "sub_title":"A note on title fees",
+                    "paragraphs":[
+                        {
+                            "text":"In the context of a refinance, the main component of title fees is the title insurance policy.",
+                            "urls":[
+                                {
+                                    "name":" title insurance policy",
+                                    "url":"https://www.rate.com/resources/what-is-title-insurance"
+                                }
+                            ]
+                        },
+                        {
+                            "text":"A title establishes the fact that legal ownership of the property has been transferred to you. Title insurance is necessary to protect you from any errors that may exist in the ownership records. When you refinance your home, you may also need to acquire a new lender’s title insurance policy. While exact costs differ from state to state, it’s based on loan amount, home value and geographic location. Costs are typically in a range between $300 and $1,500.",
+                            "urls":[
+                                {
+                                    "name":"range between $300 and $1,500",
+                                    "url":"https://mymortgageinsider.com/how-much-are-closing-costs-7287/"
+                                }
+                            ]
+                        },
+                        {
+                            "text":"To be sure you understand all the various closing costs and associated fees, make sure you sit down and carefully go over the Loan Estimate (LE), which lenders are required to provide by law. The LE will present you with an itemized list of closing costs so you can see exactly what you are responsible for paying.",
+                            "urls":[
+                                {
+                                    "name":"",
+                                    "url":""
+                                }
+                            ]
+                        },
+                        {
+                            "text":"Additionally, three days before you close your refinance, lenders are required to issue a Closing Disclosure, which contains a final accounting of all the mortgage details, including interest rate, closing costs, penalties, taxes and projected payments. Compare this to the LE to make sure the agreed-upon terms and rates have been locked-in and that you will be receiving the savings you’re anticipating.",
+                            "urls":[
+                                {
+                                    "name":"Closing Disclosure",
+                                    "url":"https://www.consumerfinance.gov/ask-cfpb/what-is-a-closing-disclosure-en-1983/"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+
+        },
+        "find_low_rate":{
+            "id":"ddfgf",
+            "title":"How to find the lowest mortgage refinance rate",
+            "paragraphs":[
+                {
+                    "text":"As a current homeowner, you already have a degree of knowledge and experience that is useful when determining when to refinance and how to choose the best lender. However, a decision of such magnitude requires ample due diligence, thoughtful recommendations and even the assistance of a trusted home loan calculator to clarify the true cost of a refi.",
+                    "urls":[
+                        {
+                            "name":"",
+                            "url":""
+                        }
+                    ]
+                },
+                {
+                    "text":"Keeping a watchful eye on the current interest rate environment is an important part of determining when to refinance. When you think you’re ready to dive in, talk to an industry expert who can guide you through the process and help you get the best deal.*",
+                    "urls":[
+                        {
+                            "name":" talk to an industry expert",
+                            "url":"https://apply.guaranteedrate.com/apply/express-loan"
+                        }
+                    ]
+                }
+            ],
+            "short_note":"*Savings, if any, vary based on consumer’s credit profile, interest rate availability, and other factors. Contact Guaranteed Rate, Inc. for current rates. Restrictions apply."
+        }
+    },
+    "topArticles":[
+        {
+            "title":"Learn to connect two source and then implement it"
+        }
+    ]
+
+}

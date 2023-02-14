@@ -1,0 +1,195 @@
+.headCont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--color-prime);
+    padding: 2rem 1rem;
+    color: #fff
+}
+
+.title {
+    font-size: 3rem;
+    font-weight: bold;
+}
+
+.line {
+    width: 80%;
+    border-bottom: rgb(255, 255, 255, 0.5) solid 1px;
+    padding: 1rem 0rem;
+}
+
+.subtitle {
+    font-size: 2.5rem;
+    font-weight: bolder;
+    padding: 1rem 0rem;
+    text-align: center;
+}
+
+
+.certCont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    row-gap: 0.5rem;
+    padding:1rem 1rem;
+}
+
+.cert1 {
+    width: 100%;
+}
+
+.whyCont {
+    display: flex;
+    flex-direction: column;
+    background-color: var(--color-prime);
+    padding: 2rem 1rem;
+    row-gap: 1rem;
+}
+
+.whyImage1 {
+    width: 100%;
+}
+
+.whyImage2 {
+    width: 100%;
+}
+
+.banner {
+    background-color: #5F5E5A;
+    padding: 2rem 1rem;
+    font-size: 2.3rem;
+    font-weight: bolder;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 0rem
+}
+
+.listCont {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: var(--color-prime);
+    padding: 2rem 1rem;
+}
+
+.list1 {
+    width: 80%;
+    list-style: square;
+}
+
+.listItem {
+    color: #fff;
+    font-weight: 400;
+    font-size: 1.2rem
+}
+
+.licCont {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    column-gap: 5rem;
+    padding: 2rem 5rem
+}
+
+.table {
+    padding: 1rem 2rem;
+    width: 100%;
+}
+
+.imageCont {
+    text-align: center;
+    width: 100%;
+    padding: 2rem 0 0 0
+}
+
+.callToday {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: #000 solid 1px;
+    padding: 1rem 1rem;
+    width: 100%;
+    border-radius: 0.2rem;
+    font-size: 1.3rem;
+}
+
+.num {
+    display: flex;
+    justify-content: center;
+    padding: 1rem 0 0 0;
+}
+
+.ph {
+    font-size: 2rem;
+    font-weight: bolder;
+}
+
+@media (min-width:1024px) {
+
+    .certCont {
+        flex-direction: row;
+        column-gap: 2rem;
+        justify-content: center;
+    }
+    
+    .cert1 {
+        width: 25%
+    }
+    .whyCont {
+        flex-direction: row;
+        justify-content: center;
+        column-gap: 1rem;
+    }
+
+    .whyImage1 {
+        width: 30%;
+    }
+
+    .whyImage2 {
+        width: 44%;
+    }
+
+    .listCont {
+        flex-direction: row;
+        justify-content: center;
+        column-gap: 1.5rem;
+        padding: 2rem 1rem
+    }
+
+    .list1 {
+        width: 45%;
+    }
+
+    .licCont {
+        flex-direction: row;
+    }
+
+    .table {
+        width: 40%;
+    }
+
+    .imageCont {
+        text-align: center;
+        width: 50%;
+        padding: 2rem 0 0 0
+    }
+
+    .num {
+        font-size: 3rem;
+        padding: 1rem 0 0 0;
+        font-weight: bolder
+    }
+
+    .callToday {
+        border: #000 solid 1px;
+        padding: 0.3rem 1rem;
+        width: 100%;
+        border-radius: 0.2rem;
+        font-size: 1.3rem;
+    }
+}
+
+.mapImage {
+    width: 100%;
+}

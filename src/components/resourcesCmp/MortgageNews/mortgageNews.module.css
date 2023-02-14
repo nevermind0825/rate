@@ -1,0 +1,210 @@
+.sub_nesNav_container{
+    border-top: 1px solid lightgray;
+    border-bottom: 1px solid lightgray;
+    padding: 1rem 0.5rem;
+}
+
+.sub_nav_items_wrapper{
+    position: absolute;   
+    top: 63px;
+    right: 0;
+    text-align: right;
+}
+.navLink{
+    color: var(--color-secondary-inactive-medium);
+    /* background-color: lightgray; */
+    width: 100%;
+    display: inline-block;
+    text-decoration: none;
+    font-size: 12px;
+    font-weight: 400;
+    padding: 20px 10px 18px 20px;
+    border-bottom: 1px solid #fff;
+    white-space: nowrap;
+    transition: all 0.5s;
+}
+.navLink:hover{
+    color: var(--color-primary-brand-dark);
+    /* background-color: #e2dfdf; */
+    transition: all 0.5s;
+}
+.newsNav_input_container{
+    display: flex;
+    gap: 10px;
+    margin-left: 10px;
+}
+.sub_nav_search{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-grow: 1;
+    border: 1px solid var(--color-secondary-inactive-medium);
+    border-radius: 3px;
+    padding: 2px 4px;
+    /* width: 100%; */
+}
+.sub_nav_search:focus-within{
+    outline: 1px solid black;
+}
+.sub_nav_search input{
+    background-color: transparent;
+    color: rgb(85, 85, 85);
+    font-size: 14px;
+    padding: 2px;
+    width: 100%;
+    border: none;
+    outline: none;
+}
+.sub_nav_search input::placeholder{
+    font-size: 12px;
+}
+.sub_nav_search input::-webkit-search-cancel-button{
+    display: none;
+}
+.newsNav_dot_icon{
+    cursor: pointer;
+}
+
+
+/* article styles  */
+.news_article_wrapper{
+    border-bottom: 1px solid  skyblue;
+}
+.news_article_wrapper:hover{
+    border-bottom: 1px solid  #00556f;
+}
+.news_article{
+    max-width: 800px;
+}
+
+/* loadmore button styles  */
+.loadBtn_hr_wraper{
+    margin: 80px 5px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.loadBtn_hr{
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0;
+    width: 20%;
+}
+.loadBtn{
+    width: 50%;
+    text-align: center;
+    color: #fff;
+    background-color: #187a9a;
+    padding: 10px 36px;
+    font-size: 1.3125rem;
+    line-height: 1.33333;
+    border-radius: 6px;
+}
+.loadBtn:hover{
+    color: #fff;
+}
+.digital_btn_wrap{
+    margin: 35px 0;
+}
+.digital_btn_wrap hr{
+    border-top: 3px solid rgb(184, 184, 184);
+    box-sizing: content-box;
+    height: 0;
+}
+.digital_btn_wrap p{
+    color: #555759;
+    text-align: center;
+    font-size: 19px;
+    font-weight: 600;
+    margin-bottom: 20px;
+}
+.digital_btn_wrap a{
+    width: 70%;
+    font-size: 16px;
+    margin: 0 auto 30px;
+    border: 2px solid #d13239;
+    color: #fff;
+    background-color: #d13239;
+    text-decoration: none;
+    padding: 6px 12px;
+    line-height: 1.5;
+    border-radius: 4px;
+    display: block;
+    text-align: center;
+    box-shadow: 0 1px 2px rgba(0,0,0,.16), 0 1px 2px rgba(0,0,0,.23);
+    transition: box-shadow .28s cubic-bezier(.4,0,.2,1);
+    
+}
+.digital_btn_wrap a:hover{
+    color: #fff;
+    background-color: #aa262c;
+}
+
+@media only screen and (max-width: 411px) {
+    .sub_nav_items_wrapper{}
+}
+
+@media only screen and (max-width: 992px) {
+    .sub_nesNav_container{
+        position: relative;
+    }
+    .sub_nav_items_wrapper{
+        position: absolute;
+        top: 70px;
+        /* background-color: #ebe8e8; */
+    }
+    .navLink{
+        text-decoration: none;
+        font-weight: 400;
+        background-color: #ebe8e8;
+        width: 100%;
+        min-width: 280px;
+        display: inline-block;
+        font-size: 12px;
+        padding: 12px 14px;
+        /* border-bottom: none; */
+        border-bottom: 1px solid #fff;
+        transition: all 0.5s;
+    }
+    .navLink:hover{
+        background: #f7f7f7;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+    .sub_nesNav_container{
+        display: flex;
+    }
+    .sub_nav_items_wrapper{
+        position: relative;
+        top: 0;
+        flex-grow: 1;
+
+    }
+    .sub_nav_items{
+        display: flex;
+        justify-content: space-between;
+    }
+    .navLink{
+        background-color: transparent;
+        /* width: 100%; */
+        /* display: inline-block; */
+        font-size: 14px;
+        /* font-weight: 400; */
+        padding: 0 18px;
+        /* border-bottom: none; */
+        border-bottom: 1px solid #fff;
+        transition: all 0.5s;
+    }
+    .newsNav_dot_icon{
+        display: none;
+    }
+}
+
+

@@ -1,0 +1,69 @@
+.process_head_title{
+
+}
+.mortgage_process_step{
+    margin: 1rem auto;
+    display: flex;
+    flex-direction: column;
+}
+.mortgage_process_img_box{
+    order: 2;
+    justify-items: center;
+    justify-content: center;
+}
+.mortgage_process_img_wrap{
+    width: 90%;
+}
+.process_para_wraper{
+    margin-left: 50px;
+}
+.process_title{
+    position: relative;
+    font-size: 22px;
+    margin-bottom: 1rem;
+}
+.process_title::before{
+    content: attr(data-processNo);
+    position: absolute;
+    top: 0;
+    left: -50px;
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: red;
+    color: #fff;
+    display: grid;
+    place-items: center;
+}
+
+.process_para{
+    line-height: 19px;
+    position: relative;
+}
+
+.process_para::before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: -35px;
+    border-left: 1px dotted;
+    width: 0;
+    height: 100%;
+}
+
+@media screen and (min-width: 992px) {
+    .mortgage_process_step{
+        display: grid;
+        grid-template-columns: auto 2fr;
+        gap: 2rem;
+    }
+    .mortgage_process_img_box{
+        order: 1;
+    }
+    .mortgage_process_img_wrap{
+        width: 280px;
+    }
+    .mortgage_process_para_box{
+        order: 2;
+    }
+}

@@ -1,0 +1,20 @@
+.toolOption{
+    position: relative;
+}
+
+.toolOption::before{
+    position: absolute;
+    content: '';
+    background: red;
+    width: 16px;
+    height: 16px;
+    top: 5px;
+    left: -30px;
+    border-radius: 50%;
+}
+
+.shouldAccordian{
+    border-top: 1px solid var(--color-marketing-8-lighter);
+    padding: 1rem 0;
+}
+

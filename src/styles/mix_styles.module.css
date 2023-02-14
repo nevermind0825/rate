@@ -1,0 +1,17 @@
+.horizontal_width{
+    width: 100%;
+}
+
+@media screen and (max-width: 992px) {
+    .horizontal_width{
+        width: 75%;
+    }
+    
+}
+
+@media screen and (min-width: 1200px) {
+    .horizontal_width{
+        width: 50%;
+    }
+    
+}

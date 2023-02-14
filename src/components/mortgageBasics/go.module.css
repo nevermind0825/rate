@@ -1,0 +1,42 @@
+.banner {
+    width: 100%;
+    padding: 2rem 0rem;
+    background-color: var(--color-prime);
+    color: #fff;
+    font-weight: bolder;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    row-gap: 1rem;
+
+}
+
+.button{
+    padding:0.5rem 1rem;
+    width:80%;
+    background-color: transparent;
+    border-radius: 0.3rem;
+    color:#fff;
+    border:#fff solid 1px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size:1rem;
+}
+
+.button:hover{
+    cursor: pointer;
+}
+
+@media (min-width:1024px) {
+    .banner {
+        flex-direction: row;
+        justify-content: center;
+        column-gap:3rem;
+    }
+    .button{
+        padding:0.5rem 1rem;
+        width:25%;
+    }
+}

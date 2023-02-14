@@ -1,0 +1,67 @@
+/* .cal_Select_options{
+    border: none;
+    color: rgb(23, 128, 163);
+    font-weight: 700;
+    font-size: 18px;
+} */
+
+/* tools styles  */
+.option_tool{
+    /* display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem; */
+
+    border: 1px solid rgb(118, 118, 118);
+    border-radius: var(--border-radius-medium);
+    cursor: pointer;
+}
+
+.calculate_faq_title{
+    font-size: 45px;
+    margin-bottom: 14px;
+}
+.faq_question{
+    position: relative;
+    /* color: #136a87; */
+    cursor: pointer;
+}
+.faq_question span{
+    position: absolute;
+    /* right: 0; */
+    transition: all 0.3s ease-in-out;
+}
+.faq_question{
+    background: #eff4f5;
+}
+.cal_faq_accordian{
+    --cal_faq_accrdian_height: 0;
+    overflow: hidden;
+    max-height: var(--cal_faq_accrdian_height);
+    transition: all 0.3s ease-in-out;
+}
+
+/* top article styles  */
+.mortgageTopArticle{
+
+}
+.mortgageTopArticle_img_wraper{
+    text-align: center;
+    padding: 10px;
+    /* height: 250px; */
+}
+
+.mortgageTopArticle_img{
+  border-radius: 12px;
+}
+
+
+@media screen and (max-width: 992px) {
+    
+}
+@media screen and (min-width: 992px) {
+    .mortgageTopArticle_img{
+        height: 220px;
+    } 
+    
+}

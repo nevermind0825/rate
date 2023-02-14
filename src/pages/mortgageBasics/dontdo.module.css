@@ -1,0 +1,55 @@
+.imageCont {
+    width: 100%;
+    margin-top: 0;
+    margin-bottom: 3rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.section {
+    display: flex;
+    padding:1rem 5rem;
+    width: 100%;
+    justify-content: center;
+    text-align: justify;
+}
+
+.content {
+    width: 50%;
+}
+
+.video {
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 80%;
+}
+
+.subtitle {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+.h3font {
+    width: 80%;
+    font-weight: 700;
+}
+
+.listCont {
+    list-style: square;
+    font-size: 1.2rem;
+    display: flex;
+    font-weight: 600;
+    justify-content: center;
+    padding: 1rem 3rem;
+}
+
+.videoImage{
+    width:100%;
+}
